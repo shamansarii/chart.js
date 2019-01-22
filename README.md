@@ -1,8 +1,7 @@
 CHART.JS
 --------
 
-You can see website here:  https://shamababul123.github.io/chart.js/
-
+You can see website here: https://shamansarii.github.io/chart.js/.
 ## WORKSHOP
 
 IDEA - Let's make a super simple chart.js appplication that runs on the web. You type in the number and get the population for that number. 
