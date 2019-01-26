@@ -2,7 +2,7 @@ CHART.JS
 --------
 You can see website here: https://shamansarii.github.io/chart.js/.
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft chart.js.Type a number in inputs and get the chart.js.
 
